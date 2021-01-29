@@ -9,8 +9,11 @@ Include Notch&Twohandedmna
 Include Mojang
 Include Daemon
 Exclude Docker
+Start Windows
 
 Install DockerMarketplace
 New Jenkins
 
 Jenkins Build
+Jenkins Compile
+Make Installer
